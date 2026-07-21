@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Camila Rojas's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Camila Rojas
+Computer Science Student, BYUI Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:roj25001@byui.edu">roj25001@byui.edu</a>
+| <a href="https://www.linkedin.com/in/camila-rojass">LinkedIn Profile</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Computer Science at Brigham Young University - Idaho and working as an Economics Teaching Assistant and Morning Custodian.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, C#, JavaScript, HTML/CSS, Polars library, SQL, data analysis, microeconomics
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Applied data science, economic modeling, machine learning, platform economics, algorithm design.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2025 - Present`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- B.S. in Computer Science (Sophomore)
 
 
+## Projects & Society Involvement
 
-## Awards
+`2026`
+__Society of Women Engineers (SWE)__
 
-`2012`
-President, *Royal Society*, London, UK
+- Programmed an interactive adventure game for custom microcontroller hardware badges (ESP32) featuring on-screen UI navigation and device networking features.
 
-Associate, *French Academy of Science*, Paris, France
+`2025 - Present`
+__Computing Society__
 
+- Attended weekly talks, industry presentations, and informative lectures on software development and computer science concepts.
 
+`2025`
+__Tech-Ready Society__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Attended presentations and workshops focused on internship preparation, career strategies, and guidance for securing top tech roles.
 
 
-## Occupation
+### Occupation
 
-`1600`
-__Royal Mint__, London
+`2026 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Warden
-- Minted coins
+- **Economics Teaching Assistant**
+- Supporting students in microeconomic concepts, market structures, and problem-solving.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2025 - 2026`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- **Morning Custodian**
+- Managed campus facility maintenance and ensured operational cleanliness with reliability and consistency.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2026 -->
